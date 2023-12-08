@@ -1,0 +1,2 @@
+- Frond-end: React (Vite) with TailwindCSS 
+- NodeJS back-end with SWR, Prisma and sqlite
