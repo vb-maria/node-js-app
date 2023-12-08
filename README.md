@@ -1,2 +1,4 @@
-- Frond-end: React (Vite) with TailwindCSS 
-- NodeJS back-end with SWR, Prisma and sqlite
+- Frond-end:
+  - - React (Vite) with TailwindCSS 
+- Back-end:
+  -  - NodeJS, Express, SWR, Prisma and sqlite
